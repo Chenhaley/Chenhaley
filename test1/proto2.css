@@ -124,3 +124,13 @@
 body{
     background-color: var(--bs-purple)
 }
+
+.yin{
+  color:yellow;
+  
+}
+
+.yin:hover{
+  color:#000;
+  
+}
