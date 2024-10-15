@@ -1,11 +1,15 @@
-const collapseElementList = document.querySelectorAll('.collapse')
-const collapseList = [...collapseElementList].map(collapseEl => new bootstrap.Collapse(collapseEl))
 
-const bsCollapse = new bootstrap.Collapse('#myCollapse', {
-    toggle: false
-  })
+// const divElem = document.querySelector("div");
+// const htmlElem = document.querySelector(":root");
 
-  const myCollapsible = document.getElementById('myCollapsible')
-myCollapsible.addEventListener('hidden.bs.collapse', event => {
-  // do something...
-})
+// htmlElem.addEventListener("click", showHide);
+// document.addEventListener("keydown", showHide);
+
+// function showHide() {
+//   if (divElem.classList[0] === "fade-in") {
+//     divElem.classList.remove("fade-in");
+//     divElem.classList.add("fade-out");
+//   } else {
+//     divElem.classList.remove("fade-out");
+//     divElem.classList.add("fade-in");
+//   }
