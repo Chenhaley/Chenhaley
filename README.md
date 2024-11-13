@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chenhaley
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Music
+- 👀 I’m interested in Game/Web Development
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on Music pieces
 - 📫 How to reach me is by emailing haleychen.sia@gmail.com
 - 😄 Pronouns: Lord/heaven
 - ⚡ Fun fact: I like Biking
